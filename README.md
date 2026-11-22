@@ -1,4 +1,4 @@
-👋 Hi, I’m Enrico Hochkoeppler (@hochenri) and I currently work as a project manager.
+👋 Hi, I’m Enrico Hochkoeppler (@hochenri) and I currently work as a web developer.
 
 👀 I’m interested in data science, machine and deep learning, web applications and much more.
 
